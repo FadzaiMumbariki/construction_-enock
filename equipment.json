@@ -1,0 +1,426 @@
+{
+  "result": {
+    "data": {
+      "json": [
+        {
+          "id": 12,
+          "name": "Bomag BW 213 Roller",
+          "category": "Compaction",
+          "description": "Single drum vibratory roller for soil compaction",
+          "specifications": null,
+          "imageUrl": "/images/roads1.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.362Z",
+          "updatedAt": "2026-05-26T15:16:48.362Z"
+        },
+        {
+          "id": 10,
+          "name": "Dynapac CA 250 Roller",
+          "category": "Compaction",
+          "description": "Vibratory soil compactor for base and sub-base compaction",
+          "specifications": null,
+          "imageUrl": "/images/fleet3.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.361Z",
+          "updatedAt": "2026-05-26T15:16:48.361Z"
+        },
+        {
+          "id": 11,
+          "name": "Dynapac CC 2200 Roller",
+          "category": "Compaction",
+          "description": "Tandem vibratory roller for asphalt compaction",
+          "specifications": null,
+          "imageUrl": "/images/fleet4.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.362Z",
+          "updatedAt": "2026-05-26T15:16:48.362Z"
+        },
+        {
+          "id": 13,
+          "name": "Pneumatic Tyre Roller",
+          "category": "Compaction",
+          "description": "Multi-wheel pneumatic roller for asphalt finishing",
+          "specifications": null,
+          "imageUrl": "/images/roads2.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.363Z",
+          "updatedAt": "2026-05-26T15:16:48.363Z"
+        },
+        {
+          "id": 8,
+          "name": "Asphalt Paver",
+          "category": "Heavy Equipment",
+          "description": "Road paving machine for asphalt laying operations",
+          "specifications": null,
+          "imageUrl": "/images/fleet2.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.359Z",
+          "updatedAt": "2026-05-26T15:16:48.359Z"
+        },
+        {
+          "id": 9,
+          "name": "Asphalt Plant (80 TPH)",
+          "category": "Heavy Equipment",
+          "description": "Mobile asphalt plant producing 80 tonnes per hour",
+          "specifications": null,
+          "imageUrl": "/images/DSC05251.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.360Z",
+          "updatedAt": "2026-05-26T15:16:48.360Z"
+        },
+        {
+          "id": 6,
+          "name": "CAT 12M Motor Grader",
+          "category": "Heavy Equipment",
+          "description": "Precision grader for fine grading and road construction",
+          "specifications": null,
+          "imageUrl": "/images/J41A7340.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.357Z",
+          "updatedAt": "2026-05-26T15:16:48.357Z"
+        },
+        {
+          "id": 1,
+          "name": "CAT 140M Motor Grader",
+          "category": "Heavy Equipment",
+          "description": "Heavy-duty motor grader for road grading and levelling operations",
+          "specifications": null,
+          "imageUrl": "/images/machine_earthwork.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.350Z",
+          "updatedAt": "2026-05-26T15:16:48.350Z"
+        },
+        {
+          "id": 3,
+          "name": "CAT 320 Excavator",
+          "category": "Heavy Equipment",
+          "description": "Versatile excavator for digging, trenching and material handling",
+          "specifications": null,
+          "imageUrl": "/images/fleet_cat.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.355Z",
+          "updatedAt": "2026-05-26T15:16:48.355Z"
+        },
+        {
+          "id": 4,
+          "name": "CAT 966 Front End Loader",
+          "category": "Heavy Equipment",
+          "description": "High-capacity wheel loader for bulk material handling",
+          "specifications": null,
+          "imageUrl": "/images/fleet_yard.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.356Z",
+          "updatedAt": "2026-05-26T15:16:48.356Z"
+        },
+        {
+          "id": 2,
+          "name": "CAT D6 Dozer",
+          "category": "Heavy Equipment",
+          "description": "Powerful bulldozer for earthmoving and land clearing",
+          "specifications": null,
+          "imageUrl": "/images/fleet_line1.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.354Z",
+          "updatedAt": "2026-05-26T15:16:48.354Z"
+        },
+        {
+          "id": 5,
+          "name": "Volvo EC 360 Excavator",
+          "category": "Heavy Equipment",
+          "description": "Large excavator for heavy earthmoving operations",
+          "specifications": null,
+          "imageUrl": "/images/J41A7323.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.357Z",
+          "updatedAt": "2026-05-26T15:16:48.357Z"
+        },
+        {
+          "id": 7,
+          "name": "Wirtgen W200 Milling Machine",
+          "category": "Heavy Equipment",
+          "description": "Cold milling machine for road surface removal and recycling",
+          "specifications": null,
+          "imageUrl": "/images/J41A7344.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.358Z",
+          "updatedAt": "2026-05-26T15:16:48.358Z"
+        },
+        {
+          "id": 22,
+          "name": "Compressor",
+          "category": "Support Equipment",
+          "description": "Air compressor for pneumatic tools and equipment",
+          "specifications": null,
+          "imageUrl": "/images/machine_earthwork.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.370Z",
+          "updatedAt": "2026-05-26T15:16:48.370Z"
+        },
+        {
+          "id": 19,
+          "name": "Concrete Mixer Truck",
+          "category": "Support Equipment",
+          "description": "Transit mixer for ready-mix concrete delivery",
+          "specifications": null,
+          "imageUrl": "/images/DSC08994.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.368Z",
+          "updatedAt": "2026-05-26T15:16:48.368Z"
+        },
+        {
+          "id": 20,
+          "name": "Fuel Bowser",
+          "category": "Support Equipment",
+          "description": "Mobile fuel tanker for on-site equipment refuelling",
+          "specifications": null,
+          "imageUrl": "/images/fleet_cat.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.369Z",
+          "updatedAt": "2026-05-26T15:16:48.369Z"
+        },
+        {
+          "id": 21,
+          "name": "Generator Set (200 KVA)",
+          "category": "Support Equipment",
+          "description": "Standby power generator for site operations",
+          "specifications": null,
+          "imageUrl": "/images/fleet_yard.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.369Z",
+          "updatedAt": "2026-05-26T15:16:48.369Z"
+        },
+        {
+          "id": 23,
+          "name": "Plate Compactor",
+          "category": "Support Equipment",
+          "description": "Vibrating plate compactor for confined area compaction",
+          "specifications": null,
+          "imageUrl": "/images/earth_works.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.371Z",
+          "updatedAt": "2026-05-26T15:16:48.371Z"
+        },
+        {
+          "id": 15,
+          "name": "Hino 700 Series Tipper",
+          "category": "Trucks",
+          "description": "Reliable tipper truck for construction material haulage",
+          "specifications": null,
+          "imageUrl": "/images/DSC05286.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.365Z",
+          "updatedAt": "2026-05-26T15:16:48.365Z"
+        },
+        {
+          "id": 16,
+          "name": "Isuzu FVZ Tipper",
+          "category": "Trucks",
+          "description": "Medium-duty tipper for versatile haulage operations",
+          "specifications": null,
+          "imageUrl": "/images/about_fleet_line.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.365Z",
+          "updatedAt": "2026-05-26T15:16:48.365Z"
+        },
+        {
+          "id": 18,
+          "name": "Low Bed Trailer",
+          "category": "Trucks",
+          "description": "Heavy equipment transporter for moving machinery to site",
+          "specifications": null,
+          "imageUrl": "/images/roads5.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.367Z",
+          "updatedAt": "2026-05-26T15:16:48.367Z"
+        },
+        {
+          "id": 14,
+          "name": "Mercedes Actros 3340 Tipper",
+          "category": "Trucks",
+          "description": "Heavy-duty tipper truck for bulk material transport",
+          "specifications": null,
+          "imageUrl": "/images/roads3.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.364Z",
+          "updatedAt": "2026-05-26T15:16:48.364Z"
+        },
+        {
+          "id": 17,
+          "name": "Water Bowser (16,000L)",
+          "category": "Trucks",
+          "description": "Large capacity water tanker for dust suppression and compaction",
+          "specifications": null,
+          "imageUrl": "/images/civil_works.jpg",
+          "available": true,
+          "dailyRate": null,
+          "createdAt": "2026-05-26T15:16:48.366Z",
+          "updatedAt": "2026-05-26T15:16:48.366Z"
+        }
+      ],
+      "meta": {
+        "values": {
+          "0.createdAt": [
+            "Date"
+          ],
+          "0.updatedAt": [
+            "Date"
+          ],
+          "1.createdAt": [
+            "Date"
+          ],
+          "1.updatedAt": [
+            "Date"
+          ],
+          "2.createdAt": [
+            "Date"
+          ],
+          "2.updatedAt": [
+            "Date"
+          ],
+          "3.createdAt": [
+            "Date"
+          ],
+          "3.updatedAt": [
+            "Date"
+          ],
+          "4.createdAt": [
+            "Date"
+          ],
+          "4.updatedAt": [
+            "Date"
+          ],
+          "5.createdAt": [
+            "Date"
+          ],
+          "5.updatedAt": [
+            "Date"
+          ],
+          "6.createdAt": [
+            "Date"
+          ],
+          "6.updatedAt": [
+            "Date"
+          ],
+          "7.createdAt": [
+            "Date"
+          ],
+          "7.updatedAt": [
+            "Date"
+          ],
+          "8.createdAt": [
+            "Date"
+          ],
+          "8.updatedAt": [
+            "Date"
+          ],
+          "9.createdAt": [
+            "Date"
+          ],
+          "9.updatedAt": [
+            "Date"
+          ],
+          "10.createdAt": [
+            "Date"
+          ],
+          "10.updatedAt": [
+            "Date"
+          ],
+          "11.createdAt": [
+            "Date"
+          ],
+          "11.updatedAt": [
+            "Date"
+          ],
+          "12.createdAt": [
+            "Date"
+          ],
+          "12.updatedAt": [
+            "Date"
+          ],
+          "13.createdAt": [
+            "Date"
+          ],
+          "13.updatedAt": [
+            "Date"
+          ],
+          "14.createdAt": [
+            "Date"
+          ],
+          "14.updatedAt": [
+            "Date"
+          ],
+          "15.createdAt": [
+            "Date"
+          ],
+          "15.updatedAt": [
+            "Date"
+          ],
+          "16.createdAt": [
+            "Date"
+          ],
+          "16.updatedAt": [
+            "Date"
+          ],
+          "17.createdAt": [
+            "Date"
+          ],
+          "17.updatedAt": [
+            "Date"
+          ],
+          "18.createdAt": [
+            "Date"
+          ],
+          "18.updatedAt": [
+            "Date"
+          ],
+          "19.createdAt": [
+            "Date"
+          ],
+          "19.updatedAt": [
+            "Date"
+          ],
+          "20.createdAt": [
+            "Date"
+          ],
+          "20.updatedAt": [
+            "Date"
+          ],
+          "21.createdAt": [
+            "Date"
+          ],
+          "21.updatedAt": [
+            "Date"
+          ],
+          "22.createdAt": [
+            "Date"
+          ],
+          "22.updatedAt": [
+            "Date"
+          ]
+        }
+      }
+    }
+  }
+}

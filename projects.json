@@ -1,0 +1,108 @@
+{
+  "result": {
+    "data": {
+      "json": [
+        {
+          "id": 1,
+          "title": "Mahatshula East Township Development",
+          "client": "Bulawayo City Council",
+          "category": "Township Development",
+          "description": "Full infrastructure development including road construction, storm water drainage, water reticulation, and sewer installation for the Mahatshula East Township development.",
+          "location": "Mahatshula East, Bulawayo",
+          "completionYear": "2024",
+          "imageUrl": "/images/DJI_0375.webp",
+          "featured": true,
+          "sortOrder": 1,
+          "createdAt": "2026-05-26T15:16:48.372Z"
+        },
+        {
+          "id": 2,
+          "title": "Valindre Township Infrastructure",
+          "client": "Bulawayo City Council",
+          "category": "Township Development",
+          "description": "Road construction, drainage works, and utility installation for the Valindre residential township.",
+          "location": "Valindre, Bulawayo",
+          "completionYear": "2024",
+          "imageUrl": "/images/valindre.jpg",
+          "featured": true,
+          "sortOrder": 2,
+          "createdAt": "2026-05-26T15:16:48.373Z"
+        },
+        {
+          "id": 3,
+          "title": "Road Rehabilitation Programme",
+          "client": "Zimbabwe Roads Authority",
+          "category": "Roads",
+          "description": "Rehabilitation and resurfacing of urban road network including milling, base repair, and asphalt overlay.",
+          "location": "Bulawayo Metropolitan Province",
+          "completionYear": "2023",
+          "imageUrl": "/images/road_construction.jpg",
+          "featured": true,
+          "sortOrder": 3,
+          "createdAt": "2026-05-26T15:16:48.373Z"
+        },
+        {
+          "id": 4,
+          "title": "Storm Water Drainage System",
+          "client": "Bulawayo City Council",
+          "category": "Civil Works",
+          "description": "Design and construction of storm water drainage infrastructure to mitigate urban flooding.",
+          "location": "Bulawayo",
+          "completionYear": "2023",
+          "imageUrl": "/images/roads2.jpg",
+          "featured": false,
+          "sortOrder": 4,
+          "createdAt": "2026-05-26T15:16:48.374Z"
+        },
+        {
+          "id": 5,
+          "title": "Bulk Earthworks — Industrial Site",
+          "client": "Private Client",
+          "category": "Earthworks",
+          "description": "Large-scale bulk earthworks including cut and fill operations, compaction, and site preparation for industrial development.",
+          "location": "Bulawayo Industrial Area",
+          "completionYear": "2023",
+          "imageUrl": "/images/earth_works.jpg",
+          "featured": false,
+          "sortOrder": 5,
+          "createdAt": "2026-05-26T15:16:48.375Z"
+        },
+        {
+          "id": 6,
+          "title": "Asphalt Overlay — Commercial District",
+          "client": "Private Developer",
+          "category": "Roads",
+          "description": "Asphalt overlay and road marking for commercial parking and access roads.",
+          "location": "Bulawayo CBD",
+          "completionYear": "2022",
+          "imageUrl": "/images/road_construction2.jpg",
+          "featured": false,
+          "sortOrder": 6,
+          "createdAt": "2026-05-26T15:16:48.375Z"
+        }
+      ],
+      "meta": {
+        "values": {
+          "0.createdAt": [
+            "Date"
+          ],
+          "1.createdAt": [
+            "Date"
+          ],
+          "2.createdAt": [
+            "Date"
+          ],
+          "3.createdAt": [
+            "Date"
+          ],
+          "4.createdAt": [
+            "Date"
+          ],
+          "5.createdAt": [
+            "Date"
+          ]
+        }
+      }
+    }
+  }
+}
